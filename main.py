@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 import time
 import undetected_chromedriver.v2 as uc
 from selenium.common.exceptions import NoSuchElementException
+import pandas as pd
 
 
 if __name__ == '__main__': 
