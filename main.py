@@ -10,7 +10,7 @@ import pandas as pd
 if __name__ == '__main__': 
 
     LINK = "https://www.upwork.com/nx/find-work/"
-    PATH_TO_OUTPUT_CSV_FILE = 'output.csv'
+    PATH_TO_OUTPUT_CSV_FILE = 'sample_output.csv'
     EMAIL = 'indu.uday1993@gmail.com'
     PASSWORD = "Uday@1234"
     SECURITY_QUESTION = 'Kutta'
