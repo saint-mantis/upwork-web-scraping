@@ -33,7 +33,7 @@ if __name__ == '__main__':
     time.sleep(5)
     driver.find_element(By.CSS_SELECTOR, "#login_control_continue").click()
     print("Continue btn clicked 2")
-    time.sleep(2)
+    time.sleep(5)
 
 
 
